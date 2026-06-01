@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
