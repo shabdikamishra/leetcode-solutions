@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
