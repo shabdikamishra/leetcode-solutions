@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0136-single-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shabdikamishra/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
