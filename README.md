@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1550-three-consecutive-odds](https://github.com/shabdikamishra/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shabdikamishra/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/shabdikamishra/leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0268-missing-number) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/shabdikamishra/leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Brainteaser
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/shabdikamishra/leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
