@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/shabdikamishra/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shabdikamishra/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/shabdikamishra/leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/shabdikamishra/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/shabdikamishra/leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
+## Greedy
+|  |
+| ------- |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/shabdikamishra/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 <!---LeetCode Topics End-->
