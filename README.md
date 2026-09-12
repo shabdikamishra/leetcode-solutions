@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1550-three-consecutive-odds](https://github.com/shabdikamishra/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -109,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/shabdikamishra/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
