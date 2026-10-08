@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -138,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0577-employee-bonus) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
