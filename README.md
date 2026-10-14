@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/shabdikamishra/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
